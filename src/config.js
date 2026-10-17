@@ -1,6 +1,6 @@
 // ✏️ Everything personal lives here — edit freely.
 
-export const NAME = 'Affaq';
+export const NAME = 'Aitzaz';
 export const AGE = 21; // born 2005
 
 // 1st, 2nd, 3rd, 4th … 11th, 12th, 13th, 21st, 22nd …
@@ -54,7 +54,7 @@ export const BALLOON_MESSAGES = [
   '21 looks good on you!',
   'Level 21 unlocked',
   'Legend status: confirmed',
-  'Make a wish!',
+  'Pura Hiiii!',
   'Cake first, questions later',
   'Main character energy',
   'Another lap around the sun',
