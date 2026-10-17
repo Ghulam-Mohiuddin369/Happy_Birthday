@@ -12,7 +12,7 @@ export function ordinal(n) {
 
 // 🔒 Everything stays blurred and locked until this exact moment, then opens for everyone.
 // Midnight Pakistan time on his birthday, e.g. '2026-10-05T00:00:00+05:00'. null = never locked.
-export const UNLOCK_AT = '2026-09-24T00:00:00+05:00';
+export const UNLOCK_AT = '2026-10-19T00:00:00+05:00';
 
 // Who the letter is from
 export const FROM = 'All friends and well-wishers';
